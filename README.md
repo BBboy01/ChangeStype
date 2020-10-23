@@ -50,4 +50,4 @@
 
 # 以上就将微信与钉钉绑定完成，使用的话只需要在change_stype.py中添加自己的手机号和密码然后运行即可
 
-![17B10E2D3231B9DEAD33C21D66E2ABF7](https://jojo-1303952275.cos.ap-chengdu.myqcloud.com/img/17B10E2D3231B9DEAD33C21D66E2ABF7.png)
+![4](https://jojo-1303952275.cos.ap-chengdu.myqcloud.com/img/17B10E2D3231B9DEAD33C21D66E2ABF7.png)
