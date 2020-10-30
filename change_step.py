@@ -91,7 +91,7 @@ class Step:
         if step > max(data):
             print("手机号:", phone, " 当前步数:", step, " 绑定情况:", self.bind_msg)
         else:
-            print("手机号:", phone, " 当前步数:", max(data), "绑定情况:", self.bind_msg)
+            print("手机号:", phone, " 当前步数:", max(data), " 绑定情况:", self.bind_msg)
 
 
     def run(self):
